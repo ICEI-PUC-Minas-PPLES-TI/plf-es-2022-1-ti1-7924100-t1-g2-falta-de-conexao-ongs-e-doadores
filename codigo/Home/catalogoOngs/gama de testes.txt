@@ -1,0 +1,5 @@
+clickar no botão "ONG de cães" e abrir a descrição do card
+
+esperar o carousel mudar de imagem
+
+interagir com a navbar.     aviso: a navbar ainda não possui os sites linkados

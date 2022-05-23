@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
+
+#description{
+    display:none;
+}
+
+#tela{
+    background-color: rgba(204, 170, 17, 0.719);
+}
+
+html, body{
+    margin: 0%;
+    
+}
+
+#barra{
+    display: inline;
+    position: absolute;
+    background-color:rgba(255, 228, 196, 0.712);
+    width:100%;
+    font-size: xx-large;
+    padding-left: 0%;
+
+}
+
+#porco{
+    float: right;
+    max-height: 40px;
+}
+
+#btn {
+    display: inline;
+    height:10%;
+    width: 100%;
+    background-color: lightgreen ;
+
+}
+ 
+#card{
+    width:min-content;
+    margin-bottom:40px;
+}
+
+.card{
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 40%;
+    height: 100%;
+}
+
+.photo img{
+ size:100%;
+}
+
+.carousel{
+    margin-left: 20%;
+    margin-right: 20%;
+}
